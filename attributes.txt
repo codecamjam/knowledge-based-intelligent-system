@@ -1,0 +1,8 @@
+pre-appitizer: salsa, queso
+appetizer: soup, salad
+entree: beef, fish
+main: water, soda
+drink: beer, wine
+dessert: cake, ice-cream
+digestiv: coffee, liquor
+ride: car, truck

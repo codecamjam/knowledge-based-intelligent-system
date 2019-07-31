@@ -1,0 +1,5 @@
+soup or not beef or not beer
+not soup or cake
+soup or cake
+not cake or not beer
+beer or not cake

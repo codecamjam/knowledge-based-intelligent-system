@@ -1,0 +1,30 @@
+DO NOT TRY TO RUN THIS TEXT FILE! THIS IS JUST FOR DESCRIBING THE INSTANCE
+
+INSTANCE:   ROCK-BAND
+
+ATTRIBUTES:
+Strings: guitar, banjo      (1,-1)
+Bass: stand-up, electric    (2,-2)
+Drums: natural, machine     (3,-3)
+Percussion: bongos, congas  (4,-4)
+Keys: piano, keyboard       (5,-5)
+Brass: saxophone, trombone  (6,-6)
+Singer: male, female        (7,-7)
+Wind: flute, kazoo          (8,-8)
+
+CONSTRAINTS:
+NOT banjo or not saxophone
+NOT banjo or keyboard
+not natural or NOT congas
+not natural or not banjo
+not natural and not male
+keyboard or not stand-up
+
+PREFERENCES
+natural or stand-up, 6
+electric or guitar, 7
+electric or kazoo or keyboard, 9
+not female and saxophone, 10
+not trombone and not saxophone, 11
+bongos and not banjo, 12
+

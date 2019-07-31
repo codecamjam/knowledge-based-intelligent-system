@@ -1,0 +1,7 @@
+NOT soup OR NOT beer
+NOT soup OR NOT wine
+NOT soup OR NOT water
+truck OR car AND NOT liquor
+NOT beer OR cake
+salsa AND truck
+salad OR NOT beef

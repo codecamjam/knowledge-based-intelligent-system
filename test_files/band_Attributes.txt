@@ -1,0 +1,8 @@
+Strings: guitar, banjo
+Bass: stand-up, electric
+Drums: natural, machine
+Percussion: bongos, congas
+Keys: piano, keyboard
+Brass: saxophone, trombone
+Singer: male, female
+Wind: flute, kazoo

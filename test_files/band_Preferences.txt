@@ -1,0 +1,6 @@
+natural and stand-up, 13
+stand-up or guitar, 7
+electric and congas or electric and not keyboard, 9
+female and saxophone, 10
+saxophone or bongos, 11
+trombone and female or trombone and not natural, 12

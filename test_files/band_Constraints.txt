@@ -1,0 +1,6 @@
+NOT banjo or not saxophone
+NOT banjo or keyboard
+not natural or NOT congas
+not natural or not banjo
+not natural and not male
+keyboard or not stand-up

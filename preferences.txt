@@ -1,0 +1,7 @@
+fish AND wine, 10
+wine OR cake, 6
+beer AND beer OR beef AND NOT soup, 7
+car AND queso, 2
+water, 7
+NOT cake AND salsa AND NOT coffee OR soda, 33
+beef OR ice-cream AND truck, 4
